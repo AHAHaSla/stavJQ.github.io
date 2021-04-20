@@ -1,10 +1,10 @@
 $(document).ready(function(){
     $(".box").mouseenter(function (){
-        $(this).toggleClass('red');
+        $(this).toggle('red');
         //alert('UvU');
     })
     $(".box").mouseleave(function (){
-        $(this).toggleClass('red');
+        $(this).toggle('red');
     //    //alert('UvU');
     })
 });
