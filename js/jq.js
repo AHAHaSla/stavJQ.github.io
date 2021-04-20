@@ -3,8 +3,8 @@ $(document).ready(function(){
         $(this).toggle('red');
         //alert('UvU');
     })
-    //$(".box").mouseleave(function (){
-    //    $(this).toggle('red');
+    $(".box").mouseleave(function (){
+        $(this).toggle('red');
     //    //alert('UvU');
-    //})
+    })
 });
