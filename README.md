@@ -1,1 +1,0 @@
-# stavjq.github.io
